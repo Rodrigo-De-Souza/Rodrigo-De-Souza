@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gelatte
+- 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in Front-end Web Developer
 - 🌱 I’m currently working at Mojo Digital
 - I live in the UK
