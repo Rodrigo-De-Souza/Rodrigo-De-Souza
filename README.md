@@ -1,4 +1,4 @@
-<strong>Hey, I'm Rodrigo!</strong>
+<strong>Hi, I'm Rodrigo!</strong>
 
 
 ## Contact ##
